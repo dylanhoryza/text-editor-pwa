@@ -13,9 +13,7 @@
 To install this application, download the source code and run npm install in your terminal. Then run npm run build to build the webpack application. Next, type npm run start:dev to run the application. In your browser, navigate to localhost:3000 to see the application. You can click the install button to download this app straight to your machine.
 ## Usage
 The following link takes you to the deployed application.
-   ```md
-   ![alt text](assets/images/screenshot.png)
-   ```
+  https://text-editor-pwa-k69w.onrender.com
 ## Credits
 My tutor, Rene Trevino helped me debug the final build with webpack manifest.
 ## License
